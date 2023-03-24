@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> Olá! Eu sou o Robert! 😀 </h1>
 
-<!--
-**robert-hmra/robert-hmra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Cursando Ciência da Computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### ⚡ Tecnologias utilizadas
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=275030&height=100&section=footer"/>
