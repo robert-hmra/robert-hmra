@@ -13,4 +13,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 
 
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=275030&height=100&section=footer"/>
