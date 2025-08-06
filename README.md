@@ -1,7 +1,8 @@
-<h1> Olá, Eu sou o Robert!</h1>
+<h1> Bem-vindo!</h1>
 
-<p>Sou estudante de ciência da Computação.
-Atualmente, desenvolvo soluções em PHP e LARAVEL que atendem problemas empresariais, desde sites para o público como soluções internas das redes de comércio.</p>
+<h2>Sou o Robert!</h2>
+
+<p>Tenho 22 anos, sou estudante de ciência da Computação e atualmente, desenvolvo soluções em PHP e LARAVEL que atendem problemas empresariais, desde sites para o público como soluções internas das redes de comércio.</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=275030&height=100&section=top"/>
 
