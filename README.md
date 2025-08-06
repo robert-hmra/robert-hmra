@@ -1,7 +1,9 @@
-<h1> Olá! Eu sou o Robert! </h1>
-<p></p>
+<h1> Olá, Eu sou o Robert!</h1>
 
+<p>Sou estudante de ciência da Computação.
+Atualmente, desenvolvo soluções em PHP e LARAVEL que atendem problemas empresariais, desde sites para o público como soluções internas das redes de comércio.</p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=275030&height=100&section=top"/>
 
  ### Tecnologias utilizadas:
 <code><img height="20" width="21" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -17,4 +19,3 @@
 
 
 
-<img style="transform: rotateX(3.142rad);" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=275030&height=100&section=top"/>
